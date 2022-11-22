@@ -1,6 +1,6 @@
 # 📝 Articles Archive
 
-This is a public archive containing all my published articles.
+Public archive containing all my published articles.
 
 ## Tags
 
