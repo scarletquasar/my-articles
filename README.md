@@ -11,6 +11,7 @@ This is a public archive containing all my published articles.
 
 ## CSharp
 
+- [Creating smarter DTOs with fusion objects in C#](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/csharp/creating_smarter_dtos_with_fusion_objects_in_csharp.md)
 - [Stop validating serial numbers manually in C#](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/csharp/stop_validating_serial_numbers_manually_in_csharp.mdd)
 
 ## JavaScript
