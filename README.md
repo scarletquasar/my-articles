@@ -13,4 +13,4 @@ This is a public archive containing all my published articles.
 
 ## Productivity
 
-= [What is a PoC and how can it increase your productivity](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/productivity/what_is_a_poc_and_how_can_it_increase_your_productivity.md)
+- [What is a PoC and how can it increase your productivity](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/productivity/what_is_a_poc_and_how_can_it_increase_your_productivity.md)
