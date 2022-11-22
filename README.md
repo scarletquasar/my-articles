@@ -20,6 +20,8 @@ This is a public archive containing all my published articles.
 
 ## npm
 
+- [Passing arguments to npm commands](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/npm/passing_arguments_to_npm_commands.md)
+
 ## Productivity
 
 - [What is a PoC and how can it increase your productivity](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/productivity/what_is_a_poc_and_how_can_it_increase_your_productivity.md)
