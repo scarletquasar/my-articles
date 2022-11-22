@@ -15,8 +15,8 @@ This is a public archive containing all my published articles.
 
 ## JavaScript
 
-- [The experience of creating my own JavaScript runtime - #1](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/javascript/the_experience_of_creating_my_own_javascript_runtime_1.md)
 - [The experience of creating my own JavaScript runtime - #2](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/javascript/the_experience_of_creating_my_own_javascript_runtime_2.md)
+- [The experience of creating my own JavaScript runtime - #1](https://github.com/victoriaquasar/ArticlesArchive/blob/main/articles/javascript/the_experience_of_creating_my_own_javascript_runtime_1.md)
 
 ## npm
 
